@@ -1,0 +1,20 @@
+---
+title: "Challenge_8: Github practice"
+author: "Chin-Yu Tang"
+description: "Solutions"
+date: "11/27/2023"
+format:
+  html:
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+categories:
+  - weekly_challenges
+  - challenge_8
+---
+
+**Make sure you change the author's name in the above YAML header.**
+
+1. what was the last movie you watched in a theater?
+Oppenheimer
